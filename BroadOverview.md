@@ -12,4 +12,6 @@ I will aim to start (and hopefully) finish 1 new coding project every week for t
 This, in conjunction with what I am studying from different sources, I hope will help to cement my understanding of coding concepts, best practices and syntax, as well as giving me the chance to develop more of an understanding as to how to approach projects, and what areas I need to work on.
 
 Goal. 
-To apply for junior python developer/data science/analysis roles in April 2024.
+To be able to use Git comfortably as part of my workflow.
+To have a record of projects to my name.
+To be able to apply for junior python developer/data science/analysis roles in April 2024.
