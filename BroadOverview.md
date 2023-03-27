@@ -9,6 +9,7 @@ I have been working on learning how to program using python for a little over a 
 
 I now need to focus on creating projects. 
 I will aim to start (and hopefully) finish 1 new coding project every week for the next year.
+These projects will start out as reimaginings of existing project recommendations for learners, but I will move onto original projects in due course, once I have the requisite knowledge to attempt to do so.
 This, in conjunction with what I am studying from different sources, I hope will help to cement my understanding of coding concepts, best practices and syntax, as well as giving me the chance to develop more of an understanding as to how to approach projects, and what areas I need to work on.
 
 Goal. 
